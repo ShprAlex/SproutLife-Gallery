@@ -1,5 +1,7 @@
 ### Page 4
 
+[Slow Bugs](https://github.com/ShprAlex/SproutLife-Genome-Gallery/blob/master/ShprAlex/Genome%202021-01-03%200207%20slow%20bugs.txt)
+
 ![SproutLife](https://github.com/ShprAlex/SproutLife-Gallery/blob/master/ShprAlex/SproutLife%202021-01-03%20slow%20bugs.gif)
 
 ![SproutLife](https://github.com/ShprAlex/SproutLife-Gallery/blob/master/ShprAlex/SproutLife%202021-01-27%20boxlid%20mix4.gif)
@@ -19,6 +21,8 @@
 ![SproutLife](https://github.com/ShprAlex/SproutLife-Gallery/blob/master/ShprAlex/SproutLife%202020-06-17%20mixed%20bag2.gif)
 
 ![SproutLife](https://github.com/ShprAlex/SproutLife-Gallery/blob/master/ShprAlex/SproutLife%202020-12-05%20boxhat1.gif)
+
+[Starry Night](https://github.com/ShprAlex/SproutLife-Genome-Gallery/blob/master/ShprAlex/Genome%202019-12-01%201817%20starry%20night3.txt)
 
 ![SproutLife](https://github.com/ShprAlex/SproutLife-Gallery/blob/master/ShprAlex/SproutLife%202019-11-30%20starry%20night.gif)
 
