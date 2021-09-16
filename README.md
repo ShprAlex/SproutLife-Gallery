@@ -1,4 +1,4 @@
-# SproutLife Gallery
+# SproutLife Genome Gallery
 
 This is a gallery of genomes and images for the [SproutLife](https://github.com/ShprAlex/SproutLife) project.
 
